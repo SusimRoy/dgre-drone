@@ -1,1 +1,1 @@
-This is the repository for the autonomous dgro-drone made during inter IIT techfest 2021.
+This is the repository for the autonomous dgro-drone made during Inter-IIT techfest 2021.
